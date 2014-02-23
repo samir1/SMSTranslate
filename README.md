@@ -10,4 +10,4 @@ The text message interface uses Twilio.
 
 
 Run using:
-ruby ~/smstranslate/smstranslate_server.rb
+ruby ~/smstranslate/smstranslate_server.rb &
