@@ -7,3 +7,7 @@ Texting the phone number returns the message sent in English.
 The files are hosted using DigitalOcean.
 
 The text message interface uses Twilio.
+
+
+Run using:
+ruby ~/smstranslate/smstranslate_server.rb
