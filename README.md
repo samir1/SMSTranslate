@@ -1,4 +1,4 @@
-<h2>i speak american</h2>
+<h2>SMS Translate</h2>
 
 This is an SMS interface for Google Translate.
 
